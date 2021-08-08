@@ -11,5 +11,3 @@ assignees: ''
   - [ ] Develop tutorial codes
 - [ ] Section 2: Parsivar Tutorial
   - [ ] Follow tutorial
-- [ ]  Section 3: Project
-  - [ ] Sentiment analysis for Persian
