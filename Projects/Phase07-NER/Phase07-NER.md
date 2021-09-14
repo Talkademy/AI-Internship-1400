@@ -85,3 +85,17 @@ output:
 
 
 * حالا خودت جستجو کن چه روش های دیگه ای برای ساخت NER برای زبان فارسی میتونی انجام بدی.
+
+### (اختیاری) پکیج Polyglot
+   این پکیج هم یکی از پرکاربردین پکیج های پردازش زبان طبیعی هست که زبان فارسی رو هم پشتیبانی میکنه. لیست تسک هایی که این پکیج داره:
+   
+* Tokenization (165 Languages)
+* Language detection (196 Languages)
+* Named Entity Recognition (40 Languages)
+* Part of Speech Tagging (16 Languages)
+* Sentiment Analysis (136 Languages)
+* Word Embeddings (137 Languages)
+* Morphological analysis (135 Languages)
+* Transliteration (69 Languages)
+  
+ این پکیج NER رو برای فارسی هم داره، پس این پکیج رو نصب کن و باهاش نهاده های چند جمله رو بدست بیار و با مدلی که خودت ساختی مقایسه کن
